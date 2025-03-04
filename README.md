@@ -1,4 +1,3 @@
-# Data-Mining
 # Data Mining Course Repository
 
 Welcome to my Data Mining course repository! This repository contains all the exercises, projects, and explanations from my Data Mining course at TU. The goal of this repository is to document my journey in learning data mining techniques and share helpful resources with others who are interested in this field.
