@@ -31,7 +31,6 @@ Here are some of the key topics covered in the course:
 6. **Evaluation Metrics (Accuracy, Precision, Recall, F1-Score)**
 7. **Big Data & Scalable Techniques**
 
-I will add explanations, resources, and examples for each topic as I progress through the course.
 
 ## Exercises
 Each folder in this repository contains a specific exercise from the course. Each exercise has:
