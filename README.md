@@ -59,6 +59,13 @@
  
  ## License
  This repository is open-source and available under the [MIT License](LICENSE). Feel free to use, fork, and contribute!
+
+ ## Credits
+
+This repository was inspired by the following authors and resources:
+
+- **Marrone, Rainer**: Author of all Resources in the [Resources](#resources) folder of this Repo
+- **Open Source Contributors**: Libraries such as Scikit-learn, Pandas, and Matplotlib
  
  ---
  
